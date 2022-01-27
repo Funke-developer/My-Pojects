@@ -1,0 +1,18 @@
+For Database connectivity:-
+Use Databases name sales
+Database username= root
+Database password= ''
+
+Admin Login
+ Username=admin@gmail.com
+ Password=12345678
+
+Inventory Login
+ Username=baraka@inventory.com
+ Password=12345678
+
+Cashier Login
+ Username=hope@cashier.com
+ Password=12345678
+
+For any inquires don't hestitate to call 0677716683 HOPE FUNKE-System and software developer
